@@ -21,7 +21,7 @@ function Footers() {
           rel='noreferrer'
           target='_blank'
         >
-         Matthew Jack
+         Matthew Jack 
         </a>
       </p>
     </footer>
