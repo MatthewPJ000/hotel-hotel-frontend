@@ -17,7 +17,7 @@ function Footers() {
         ©2023 Beach Resort — Developed By
         {' '}
         <a
-          href='https://srmukul.com'
+          href='https://mjack-profile.vercel.app/'
           rel='noreferrer'
           target='_blank'
         >
