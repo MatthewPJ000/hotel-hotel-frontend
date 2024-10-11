@@ -21,7 +21,7 @@ function Footers() {
           rel='noreferrer'
           target='_blank'
         >
-          Md. Samiur Rahman (Mukul)
+         Matthew Jack
         </a>
       </p>
     </footer>
